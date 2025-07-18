@@ -1,10 +1,10 @@
-# 🛡️ YaCine DNS & ARP Spoofing Tool
+# 🛡 YaCine DNS & ARP Spoofing Tool
 
 A lightweight Python-based network tool for performing **ARP spoofing** and **DNS query sniffing** on a local network. Built using [Scapy].
 
 ---
 
-## ✨ Features
+## Features
 
 - Intercepts and logs DNS queries made by devices on the network
 - Performs ARP spoofing to redirect traffic between target and gateway
